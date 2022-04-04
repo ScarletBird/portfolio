@@ -1,0 +1,23 @@
+div.sidebar_menu {
+    background-color: rgb(46, 42, 51);
+    display: inline-block;    
+    fill: rgb(46, 42, 51);
+    position: absolute;
+    left: 0;
+    bottom: 20%;
+}
+
+.fa {
+    font-size: 60px;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+
+.fa-github {
+    background-color: rgb(33, 31, 31);
+}
+
+.fa-linkedin {
+    background-color: rgb(14, 118, 168);
+}
